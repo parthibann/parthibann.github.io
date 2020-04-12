@@ -353,3 +353,15 @@ section:last-child {
 	-moz-animation-delay: 0, 2.5s;
 	animation-delay: 0, 2.5s;
 }
+
+a.nostyle:link {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
+
+a.nostyle:visited {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
