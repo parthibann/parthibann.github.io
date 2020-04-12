@@ -355,13 +355,13 @@ section:last-child {
 }
 
 a.nostyle:link {
-    text-decoration: inherit;
+    text-decoration: none;
     color: inherit;
     cursor: auto;
 }
 
 a.nostyle:visited {
-    text-decoration: inherit;
+    text-decoration: none;
     color: inherit;
     cursor: auto;
 }
